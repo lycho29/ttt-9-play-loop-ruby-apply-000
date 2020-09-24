@@ -1,4 +1,4 @@
-require_relative '../lib/play'
+6gtrequire_relative '../lib/play'
 
 describe '#play' do
   it 'calls turn nine times' do
